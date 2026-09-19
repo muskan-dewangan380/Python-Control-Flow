@@ -67,7 +67,7 @@ The program also:
 ### Run
 
 ```text
-python task1_discount_rules.py
+python discount_rules.py
 ```
 
 ---
@@ -97,7 +97,7 @@ A `for` loop is used to:
 ### Run
 
 ```text
-python task2_process_multiple_orders.py
+python process_multiple_orders.py
 ```
 
 ### Expected Total Revenue
@@ -135,7 +135,7 @@ The program uses a `while` loop to repeatedly display the menu.
 ### Run
 
 ```text
-python task3_user_menu.py
+python user_menu.py
 ```
 
 ---
@@ -163,7 +163,7 @@ python task3_user_menu.py
 ### Run
 
 ```text
-python task4_loop_control.py
+python loop_control.py
 ```
 
 ### Expected Final Total
